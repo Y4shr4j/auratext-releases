@@ -1,0 +1,50 @@
+AuraText End User License Agreement (EULA)
+
+Effective date: 2025-09-25
+
+IMPORTANT: READ THIS AGREEMENT CAREFULLY. BY DOWNLOADING, INSTALLING, OR USING AURATEXT (THE "SOFTWARE"), YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. License Grant
+1.1 Subject to your compliance with this EULA, the licensor grants you a limited, non-exclusive, non-transferable, revocable license to download, install, and use one copy of the Software on devices you own or control, for personal or internal business purposes.
+1.2 All rights not expressly granted are reserved by the licensor.
+
+2. Restrictions
+2.1 You shall not and shall not permit any third party to:
+	(a) copy (except for a single backup copy), modify, adapt, translate, or create derivative works of the Software;
+	(b) reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software, except to the extent such restriction is prohibited by applicable law;
+	(c) redistribute, sublicense, sell, rent, lease, lend, or otherwise make the Software available to any third party;
+	(d) remove, alter, or obscure any proprietary notices or labels on the Software;
+	(e) use the Software to develop a competing product or service.
+
+3. Ownership
+3.1 The Software is licensed, not sold. The licensor and its licensors retain all right, title, and interest in and to the Software and all copies, including all intellectual property rights therein.
+
+4. Third-Party Components
+4.1 The Software may include or be distributed with third-party components subject to separate open-source or proprietary licenses. Those licenses govern the third-party components. See the included third-party notices and license files.
+
+5. Updates
+5.1 The licensor may provide updates or patches at its discretion. This EULA governs any updates that replace or supplement the Software, unless a separate license is provided with the update.
+
+6. Privacy
+6.1 Use of the Software may involve processing of data. Any data handling will be subject to the licensor’s privacy policy (if provided). You are responsible for complying with applicable laws when using the Software.
+
+7. Disclaimer of Warranties
+7.1 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK.
+
+8. Limitation of Liability
+8.1 TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE LICENSOR OR ITS LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, OR USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE TOTAL LIABILITY OF THE LICENSOR FOR ALL CLAIMS RELATING TO THE SOFTWARE SHALL NOT EXCEED THE AMOUNT YOU PAID (IF ANY) FOR THE SOFTWARE DURING THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY.
+
+9. Termination
+9.1 This EULA is effective until terminated. It will terminate automatically without notice if you fail to comply with any term of this EULA. Upon termination, you must cease all use and destroy all copies of the Software.
+
+10. Export and Compliance
+10.1 You agree to comply with all applicable export control and sanctions laws and regulations.
+
+11. Governing Law; Venue
+11.1 This EULA shall be governed by and construed in accordance with the laws of your domicile’s jurisdiction, without regard to conflict-of-law principles. Any disputes shall be subject to the exclusive jurisdiction of competent courts in that jurisdiction.
+
+12. Entire Agreement
+12.1 This EULA constitutes the entire agreement between you and the licensor regarding the Software and supersedes all prior or contemporaneous understandings.
+
+Contact
+For questions about this EULA, contact: support@auratext.example
